@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> My Resume<\title>
+    <style>
+    body {
+    font - family:Arial, sans-self;
+    }
+    header {
+      text- align:center;
+      background - color:#f2f2f2;
+      padding: 20px;
+    }
+
+    h1 {
+      color:#333;
+    }
+
+    section {
+    margin: 20px 0;
+    }
+
+    h2 {
+    color:#333;
+    }
+  
+    p {
+       color:666;
+      }
+     <style>
+     <head>
+     <body>
+          <header>
+          <h1>Anya,/h1>
+          <p>Web Development</p>
+         </header>
+
+     
+        <section>
+        <h2Contact information</ht2>
+        <p>Email:anyatheresemanamosa@gmail.com<p/>
+        <p>Phone:(123) 456-7890</p>

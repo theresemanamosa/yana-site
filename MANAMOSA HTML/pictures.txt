@@ -1,0 +1,14 @@
+<a href="dogs.html"><font color=black><b><i><DOGS</font></b></i
+</div>
+<div id="Content" align="middle">
+<h2><font color=green><b><i> DISPLAY PHOTOS</i></b></font></h2
+<img scr=e.jpg height=300 width=400> </IMG>
+<img scr=a.jpg height=300 width=400> </IMG>
+<img scr=aa.jpg height=300 width=400> </IMG>
+<img scr=aaa.jpg height=300 width=400> </IMG>
+<img scr=aaaa.jpg height=300 width=400> </IMG>
+<img scr=aaaaa.jpg height=300 width=400> </IMG>
+<img scr=aaaaaa.jpg height=300 width=400> </IMG>
+<img scr=a1.jpg height=300 width=400> </IMG>
+</body>
+</html>
